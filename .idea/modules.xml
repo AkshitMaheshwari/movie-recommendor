@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/Flask/.idea/Flask.iml" filepath="$PROJECT_DIR$/../pythonProject1/Flask/.idea/Flask.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Desktop/pandas/Machine_Learning_proj/IPLMatchPred/.idea/IPLMatchPred.iml" filepath="$USER_HOME$/OneDrive/Desktop/pandas/Machine_Learning_proj/IPLMatchPred/.idea/IPLMatchPred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Movie_recommender_system.iml" filepath="$PROJECT_DIR$/.idea/Movie_recommender_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/akshit/.idea/akshit.iml" filepath="$PROJECT_DIR$/../pythonProject1/akshit/.idea/akshit.iml" />
+    </modules>
+  </component>
+</project>
